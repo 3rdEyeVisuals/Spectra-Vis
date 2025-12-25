@@ -1,0 +1,104 @@
+SPECTRA VIS (TENSOR EDITION) LICENSE
+Version 1.0, December 2025
+
+Copyright (c) 2025 3rdEyeVisuals
+All Rights Reserved.
+
+================================================================================
+TERMS AND CONDITIONS
+================================================================================
+
+1. DEFINITIONS
+
+   "Software" refers to Spectra Vis (Tensor Edition), including all source code,
+   documentation, configuration files, and associated materials.
+
+   "You" refers to any individual or entity exercising permissions granted by
+   this License.
+
+   "Commercial Use" means any use of the Software intended for or directed
+   toward commercial advantage or monetary compensation.
+
+   "Derivative Work" means any work that is based on or derived from the
+   Software.
+
+2. GRANT OF LICENSE
+
+   Subject to the terms of this License, you are granted a non-exclusive,
+   worldwide, royalty-free license to:
+
+   a) USE the Software for personal, educational, and research purposes.
+
+   b) MODIFY the Software and create Derivative Works for personal,
+      educational, and research purposes.
+
+   c) DISTRIBUTE copies of the Software or Derivative Works for non-commercial
+      purposes, provided that:
+      - You include a copy of this License with any distribution
+      - You clearly attribute the original work to "3rdEyeVisuals"
+      - You indicate if changes were made
+
+3. RESTRICTIONS
+
+   You may NOT:
+
+   a) Use the Software for Commercial Use without prior written permission
+      from the copyright holder.
+
+   b) Sell, sublicense, or offer the Software as a paid product or service.
+
+   c) Remove, alter, or obscure any copyright notices, attribution text, or
+      this License from the Software.
+
+   d) Claim the Software or substantial portions thereof as your own original
+      work.
+
+   e) Use the name "Spectra Vis", "3rdEyeVisuals", or associated branding to
+      endorse or promote products derived from this Software without prior
+      written permission.
+
+4. ATTRIBUTION REQUIREMENTS
+
+   Any use or distribution of the Software must include the following
+   attribution in a prominent location:
+
+   "Spectra Vis (Tensor Edition) by 3rdEyeVisuals"
+
+   For software projects, this attribution should appear in:
+   - The README or main documentation
+   - Any "About" or "Credits" section of the user interface
+
+5. THIRD-PARTY COMPONENTS
+
+   This Software may include or depend on third-party components with their
+   own licenses (such as llama.cpp under MIT License). Those components
+   remain subject to their original licenses. This License applies only to
+   the original portions of the Software created by 3rdEyeVisuals.
+
+6. DISCLAIMER OF WARRANTY
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+7. LIMITATION OF LIABILITY
+
+   IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR
+   OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+   ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+   DEALINGS IN THE SOFTWARE.
+
+8. TERMINATION
+
+   This License automatically terminates if you fail to comply with its terms.
+   Upon termination, you must destroy all copies of the Software in your
+   possession.
+
+9. COMMERCIAL LICENSING
+
+   For commercial use inquiries, please contact the copyright holder.
+
+================================================================================
+
+By using this Software, you acknowledge that you have read, understood, and
+agree to be bound by the terms of this License.

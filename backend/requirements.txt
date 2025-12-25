@@ -1,0 +1,17 @@
+# Spectra Vis Backend Requirements
+# Copyright (c) 2025 3rdEyeVisuals
+#
+# Versions are pinned to prevent breaking changes
+
+# Web server
+fastapi==0.104.1
+uvicorn==0.24.0
+
+# Request handling
+pydantic==2.11.7
+
+# File uploads
+python-multipart==0.0.6
+
+# ASGI
+starlette==0.27.0
